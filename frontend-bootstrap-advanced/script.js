@@ -3,7 +3,7 @@
 // ==========================================
 
 // Address of the backend
- #API_URL = "http://127.0.0.1:8000/students";
+ //API_URL = "http://127.0.0.1:8000/students";
 const API_URL = "postgresql+psycopg2://training_ann2_user:hNG5tyHV83T4HDuJU5UrKeGHZ3HkgI5Y@dpg-dc38d4p5efls73b5lgf0-a.ohio-postgres.render.com/training_ann2"
 
 // Remembers which roll is being edited (null means adding a new student)
