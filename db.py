@@ -10,7 +10,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 # DB_NAME = "alchemyBD"
 #
 # # Create the database automatically if it doesn't exist yet
-# # (so you don't need phpMyAdmin to create it)
+
 # try:
 #     with create_engine(SERVER_URL).connect() as connection:
 #         connection.execute(text(f"CREATE DATABASE IF NOT EXISTS {DB_NAME}"))
